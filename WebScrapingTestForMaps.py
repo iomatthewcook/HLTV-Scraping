@@ -86,4 +86,4 @@ print(team2name_and_score[1])                                           # Team 2
 
 df = pd.DataFrame({'Team1Name':team1name,'Team2Name':team2name, 'Map':maps, 'Date':matchdates, 'Tournament':eventsnames, 'EventID':eventsIDs, 
                    'Team1Rounds':team1rounds, 'Team2Rounds':team2rounds })
-df.to_csv('Downloads\tres.csv',index=False)
+df.to_csv('HLTV-Data.csv',index=False)
