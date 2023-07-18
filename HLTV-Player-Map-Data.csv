@@ -1,0 +1,291 @@
+Username,Team,MapName,Date,Tournament,Opponent,MapResult,Rating,Kills,Assists,Deaths,HeadshotPercentage,KAST,KillDeathDiff,ADR,FirstKillDiff,FlashAssists,HltvMapID,HltvTournamentID
+k1to,OG,Ancient,2023-07-17 18:45,BLAST Premier Fall Groups 2023,G2,True,0.98,16,0,16,0.62,68.2%,0,62.1,-2,0,159788,6973
+regali,OG,Ancient,2023-07-17 18:45,BLAST Premier Fall Groups 2023,G2,True,0.83,14,0,18,0.64,59.1%,-4,64.3,-1,0,159788,6973
+F1KU,OG,Ancient,2023-07-17 18:45,BLAST Premier Fall Groups 2023,G2,True,0.59,10,2,19,0.4,59.1%,-9,47.8,-1,1,159788,6973
+FASHR,OG,Ancient,2023-07-17 18:45,BLAST Premier Fall Groups 2023,G2,True,0.40,3,6,19,0.0,45.5%,-16,44.8,-6,0,159788,6973
+nexa,OG,Ancient,2023-07-17 18:45,BLAST Premier Fall Groups 2023,G2,True,0.36,7,2,21,0.29,40.9%,-14,45.8,-4,0,159788,6973
+m0NESY,G2,Ancient,2023-07-17 18:45,BLAST Premier Fall Groups 2023,OG,False,2.30,30,7,9,0.5,90.9%,+21,139.1,+4,4,159788,6973
+NiKo,G2,Ancient,2023-07-17 18:45,BLAST Premier Fall Groups 2023,OG,False,1.53,17,3,10,0.65,90.9%,+7,82.8,+5,0,159788,6973
+huNter-,G2,Ancient,2023-07-17 18:45,BLAST Premier Fall Groups 2023,OG,False,1.33,16,3,12,0.25,81.8%,+4,82.4,+4,2,159788,6973
+HooXi,G2,Ancient,2023-07-17 18:45,BLAST Premier Fall Groups 2023,OG,False,1.19,15,8,10,0.67,72.7%,+5,69.8,-1,4,159788,6973
+jks,G2,Ancient,2023-07-17 18:45,BLAST Premier Fall Groups 2023,OG,False,1.16,15,1,9,0.8,81.8%,+6,63.8,+2,0,159788,6973
+nexa,OG,Inferno,2023-07-17 18:45,BLAST Premier Fall Groups 2023,G2,True,0.94,14,4,15,0.5,68.2%,-1,67.7,+1,2,159792,6973
+FASHR,OG,Inferno,2023-07-17 18:45,BLAST Premier Fall Groups 2023,G2,True,0.79,9,6,16,0.44,68.2%,-7,63.9,0,1,159792,6973
+F1KU,OG,Inferno,2023-07-17 18:45,BLAST Premier Fall Groups 2023,G2,True,0.77,11,3,16,0.36,54.5%,-5,69.0,-3,1,159792,6973
+regali,OG,Inferno,2023-07-17 18:45,BLAST Premier Fall Groups 2023,G2,True,0.62,8,1,15,0.25,68.2%,-7,37.3,-1,0,159792,6973
+k1to,OG,Inferno,2023-07-17 18:45,BLAST Premier Fall Groups 2023,G2,True,0.47,8,3,19,0.62,54.5%,-11,40.3,-3,0,159792,6973
+m0NESY,G2,Inferno,2023-07-17 18:45,BLAST Premier Fall Groups 2023,OG,False,1.49,15,6,14,0.8,86.4%,+1,96.4,+3,0,159792,6973
+jks,G2,Inferno,2023-07-17 18:45,BLAST Premier Fall Groups 2023,OG,False,1.43,19,0,7,0.79,86.4%,+12,72.4,0,0,159792,6973
+huNter-,G2,Inferno,2023-07-17 18:45,BLAST Premier Fall Groups 2023,OG,False,1.39,15,6,10,0.53,95.5%,+5,71.0,+3,2,159792,6973
+NiKo,G2,Inferno,2023-07-17 18:45,BLAST Premier Fall Groups 2023,OG,False,1.35,17,3,9,0.53,86.4%,+8,71.2,-2,3,159792,6973
+HooXi,G2,Inferno,2023-07-17 18:45,BLAST Premier Fall Groups 2023,OG,False,1.25,14,4,11,0.5,81.8%,+3,69.4,+2,3,159792,6973
+Twistzz,FaZe,Inferno,2023-07-17 15:00,BLAST Premier Fall Groups 2023,Liquid,True,1.35,24,3,16,0.54,77.8%,+8,89.2,+3,0,159776,6973
+rain,FaZe,Inferno,2023-07-17 15:00,BLAST Premier Fall Groups 2023,Liquid,True,1.16,19,8,17,0.47,81.5%,+2,86.7,-2,3,159776,6973
+broky,FaZe,Inferno,2023-07-17 15:00,BLAST Premier Fall Groups 2023,Liquid,True,1.10,21,7,16,0.19,77.8%,+5,76.0,0,6,159776,6973
+ropz,FaZe,Inferno,2023-07-17 15:00,BLAST Premier Fall Groups 2023,Liquid,True,1.02,19,4,19,0.53,77.8%,0,73.3,-1,2,159776,6973
+karrigan,FaZe,Inferno,2023-07-17 15:00,BLAST Premier Fall Groups 2023,Liquid,True,0.99,16,6,16,0.5,59.3%,0,62.7,-3,0,159776,6973
+oSee,Liquid,Inferno,2023-07-17 15:00,BLAST Premier Fall Groups 2023,FaZe,False,1.15,22,9,20,0.27,70.4%,+2,83.1,+3,5,159776,6973
+YEKINDAR,Liquid,Inferno,2023-07-17 15:00,BLAST Premier Fall Groups 2023,FaZe,False,1.09,16,8,19,0.5,66.7%,-3,69.7,+4,2,159776,6973
+NAF,Liquid,Inferno,2023-07-17 15:00,BLAST Premier Fall Groups 2023,FaZe,False,0.97,16,6,19,0.38,74.1%,-3,73.4,+2,0,159776,6973
+Rainwaker,Liquid,Inferno,2023-07-17 15:00,BLAST Premier Fall Groups 2023,FaZe,False,0.83,14,3,18,0.36,70.4%,-4,50.9,-2,1,159776,6973
+Patsi,Liquid,Inferno,2023-07-17 15:00,BLAST Premier Fall Groups 2023,FaZe,False,0.79,16,4,23,0.31,63.0%,-7,62.1,-4,1,159776,6973
+broky,FaZe,Mirage,2023-07-17 14:00,BLAST Premier Fall Groups 2023,Liquid,False,1.30,27,4,19,0.37,66.7%,+8,89.7,+4,3,159779,6973
+Twistzz,FaZe,Mirage,2023-07-17 14:00,BLAST Premier Fall Groups 2023,Liquid,False,1.29,26,6,19,0.58,76.7%,+7,92.5,+4,3,159779,6973
+ropz,FaZe,Mirage,2023-07-17 14:00,BLAST Premier Fall Groups 2023,Liquid,False,0.72,14,4,21,0.71,60.0%,-7,57.4,-5,2,159779,6973
+karrigan,FaZe,Mirage,2023-07-17 14:00,BLAST Premier Fall Groups 2023,Liquid,False,0.64,13,4,21,0.31,60.0%,-8,49.2,-3,2,159779,6973
+rain,FaZe,Mirage,2023-07-17 14:00,BLAST Premier Fall Groups 2023,Liquid,False,0.61,10,3,21,0.5,46.7%,-11,51.5,-2,1,159779,6973
+oSee,Liquid,Mirage,2023-07-17 14:00,BLAST Premier Fall Groups 2023,FaZe,True,1.28,27,1,16,0.19,70.0%,+11,76.6,+1,0,159779,6973
+NAF,Liquid,Mirage,2023-07-17 14:00,BLAST Premier Fall Groups 2023,FaZe,True,1.24,24,8,17,0.38,73.3%,+7,89.0,-3,3,159779,6973
+Patsi,Liquid,Mirage,2023-07-17 14:00,BLAST Premier Fall Groups 2023,FaZe,True,1.11,21,6,22,0.43,73.3%,-1,85.8,-2,0,159779,6973
+Rainwaker,Liquid,Mirage,2023-07-17 14:00,BLAST Premier Fall Groups 2023,FaZe,True,0.96,18,4,18,0.33,66.7%,0,61.9,+1,1,159779,6973
+YEKINDAR,Liquid,Mirage,2023-07-17 14:00,BLAST Premier Fall Groups 2023,FaZe,True,0.88,11,6,17,0.45,66.7%,-6,56.3,+5,1,159779,6973
+Twistzz,FaZe,Ancient,2023-07-17 15:00,BLAST Premier Fall Groups 2023,Liquid,True,1.08,17,7,19,0.59,70.8%,-2,89.5,+1,1,159783,6973
+ropz,FaZe,Ancient,2023-07-17 15:00,BLAST Premier Fall Groups 2023,Liquid,True,0.93,19,0,19,0.47,66.7%,0,72.9,0,0,159783,6973
+karrigan,FaZe,Ancient,2023-07-17 15:00,BLAST Premier Fall Groups 2023,Liquid,True,0.81,12,6,19,0.33,70.8%,-7,71.0,-2,0,159783,6973
+rain,FaZe,Ancient,2023-07-17 15:00,BLAST Premier Fall Groups 2023,Liquid,True,0.76,11,3,17,0.45,58.3%,-6,57.6,-4,1,159783,6973
+broky,FaZe,Ancient,2023-07-17 15:00,BLAST Premier Fall Groups 2023,Liquid,True,0.68,12,2,18,0.25,58.3%,-6,47.4,-1,1,159783,6973
+NAF,Liquid,Ancient,2023-07-17 15:00,BLAST Premier Fall Groups 2023,FaZe,False,1.53,23,9,15,0.43,75.0%,+8,105.0,+4,3,159783,6973
+Patsi,Liquid,Ancient,2023-07-17 15:00,BLAST Premier Fall Groups 2023,FaZe,False,1.30,22,5,16,0.18,70.8%,+6,85.8,+1,0,159783,6973
+Rainwaker,Liquid,Ancient,2023-07-17 15:00,BLAST Premier Fall Groups 2023,FaZe,False,1.30,18,5,13,0.5,75.0%,+5,85.9,+1,1,159783,6973
+oSee,Liquid,Ancient,2023-07-17 15:00,BLAST Premier Fall Groups 2023,FaZe,False,0.95,16,4,13,0.38,70.8%,+3,65.2,-3,3,159783,6973
+YEKINDAR,Liquid,Ancient,2023-07-17 15:00,BLAST Premier Fall Groups 2023,FaZe,False,0.91,11,3,14,0.73,75.0%,-3,51.9,+3,1,159783,6973
+tabseN,BIG,Anubis,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,1.07,16,4,18,0.19,70.8%,-2,76.4,+3,2,159745,6973
+mantuu,BIG,Anubis,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,0.79,10,4,18,0.1,62.5%,-8,56.4,0,1,159745,6973
+s1n,BIG,Anubis,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,0.74,13,4,18,0.54,54.2%,-5,64.4,-5,2,159745,6973
+Krimbo,BIG,Anubis,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,0.72,10,4,18,0.5,58.3%,-8,50.9,-1,0,159745,6973
+prosus,BIG,Anubis,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,0.58,8,3,18,0.5,66.7%,-10,41.4,-3,0,159745,6973
+b0RUP,Astralis,Anubis,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,1.51,18,4,14,0.56,87.5%,+4,94.6,+4,0,159745,6973
+Buzz,Astralis,Anubis,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,1.32,19,2,14,0.63,83.3%,+5,83.7,+2,0,159745,6973
+Staehr,Astralis,Anubis,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,1.31,20,1,10,0.5,79.2%,+10,77.0,0,0,159745,6973
+device,Astralis,Anubis,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,1.27,18,1,10,0.22,83.3%,+8,68.4,+1,1,159745,6973
+blameF,Astralis,Anubis,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,1.26,15,6,9,0.33,83.3%,+6,72.3,-1,0,159745,6973
+prosus,BIG,Ancient,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,1.30,21,6,17,0.52,80.8%,+4,92.9,+2,0,159749,6973
+Krimbo,BIG,Ancient,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,1.19,18,2,14,0.56,76.9%,+4,76.2,+1,0,159749,6973
+s1n,BIG,Ancient,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,1.12,17,5,15,0.82,80.8%,+2,75.0,-1,3,159749,6973
+mantuu,BIG,Ancient,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,1.02,17,3,16,0.12,73.1%,+1,63.7,+1,2,159749,6973
+tabseN,BIG,Ancient,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,0.94,15,7,19,0.53,73.1%,-4,65.6,-1,4,159749,6973
+Buzz,Astralis,Ancient,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,1.25,20,7,18,0.4,80.8%,+2,97.0,+1,1,159749,6973
+blameF,Astralis,Ancient,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,1.07,18,5,16,0.28,65.4%,+2,74.5,-2,2,159749,6973
+device,Astralis,Ancient,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,1.05,16,0,15,0.5,61.5%,+1,64.3,+3,0,159749,6973
+b0RUP,Astralis,Ancient,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,0.97,16,2,19,0.69,73.1%,-3,65.6,-1,0,159749,6973
+Staehr,Astralis,Ancient,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,0.59,7,5,21,0.29,69.2%,-14,36.3,-3,2,159749,6973
+Krimbo,BIG,Overpass,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,1.40,27,6,17,0.74,63.3%,+10,94.6,+2,3,159755,6973
+mantuu,BIG,Overpass,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,1.19,20,10,15,0.3,76.7%,+5,73.8,0,6,159755,6973
+s1n,BIG,Overpass,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,0.89,15,4,17,0.47,70.0%,-2,55.8,-3,1,159755,6973
+prosus,BIG,Overpass,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,0.77,13,5,21,0.38,63.3%,-8,55.5,-1,2,159755,6973
+tabseN,BIG,Overpass,2023-07-16 17:40,BLAST Premier Fall Groups 2023,Astralis,True,0.70,14,2,21,0.57,56.7%,-7,49.0,-2,1,159755,6973
+blameF,Astralis,Overpass,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,1.23,20,8,17,0.3,70.0%,+3,86.0,+5,0,159755,6973
+b0RUP,Astralis,Overpass,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,1.07,17,2,17,0.71,76.7%,0,65.3,+3,0,159755,6973
+device,Astralis,Overpass,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,1.06,18,9,15,0.0,70.0%,+3,61.7,-1,6,159755,6973
+Buzz,Astralis,Overpass,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,1.03,20,7,19,0.35,76.7%,+1,76.1,-3,2,159755,6973
+Staehr,Astralis,Overpass,2023-07-16 17:40,BLAST Premier Fall Groups 2023,BIG,False,0.81,16,1,21,0.56,66.7%,-5,58.3,0,0,159755,6973
+cadiaN,Heroic,Mirage,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Natus Vincere,False,1.69,25,3,10,0.4,92.0%,+15,95.1,+4,2,159729,6973
+jabbi,Heroic,Mirage,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Natus Vincere,False,1.46,24,0,13,0.62,80.0%,+11,85.0,+2,0,159729,6973
+TeSeS,Heroic,Mirage,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Natus Vincere,False,1.36,17,6,12,0.65,92.0%,+5,78.5,+2,3,159729,6973
+stavn,Heroic,Mirage,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Natus Vincere,False,1.19,15,7,13,0.6,84.0%,+2,85.3,-2,1,159729,6973
+sjuush,Heroic,Mirage,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Natus Vincere,False,1.06,13,4,13,0.62,80.0%,0,60.9,+3,2,159729,6973
+s1mple,Natus Vincere,Mirage,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Heroic,True,0.88,14,3,16,0.64,68.0%,-2,57.4,0,2,159729,6973
+jL,Natus Vincere,Mirage,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Heroic,True,0.74,15,0,18,0.53,52.0%,-3,61.4,-2,0,159729,6973
+Aleksib,Natus Vincere,Mirage,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Heroic,True,0.71,12,5,19,0.42,60.0%,-7,61.4,-3,1,159729,6973
+b1t,Natus Vincere,Mirage,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Heroic,True,0.66,11,2,20,0.82,48.0%,-9,54.3,-2,0,159729,6973
+iM,Natus Vincere,Mirage,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Heroic,True,0.50,9,4,21,0.56,44.0%,-12,48.2,-2,2,159729,6973
+stavn,Heroic,Inferno,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Natus Vincere,True,1.70,28,10,18,0.5,88.5%,+10,124.5,+3,0,159736,6973
+sjuush,Heroic,Inferno,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Natus Vincere,True,1.34,20,6,14,0.5,84.6%,+6,75.9,+1,0,159736,6973
+cadiaN,Heroic,Inferno,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Natus Vincere,True,1.22,20,9,14,0.35,80.8%,+6,70.7,+1,6,159736,6973
+TeSeS,Heroic,Inferno,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Natus Vincere,True,0.92,14,7,18,0.43,69.2%,-4,74.3,-4,0,159736,6973
+jabbi,Heroic,Inferno,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Natus Vincere,True,0.87,13,4,18,0.62,73.1%,-5,49.1,-1,1,159736,6973
+Aleksib,Natus Vincere,Inferno,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Heroic,False,1.14,20,7,18,0.4,69.2%,+2,87.6,+1,1,159736,6973
+jL,Natus Vincere,Inferno,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Heroic,False,0.98,17,3,18,0.53,61.5%,-1,68.4,+3,0,159736,6973
+b1t,Natus Vincere,Inferno,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Heroic,False,0.89,17,2,19,0.65,61.5%,-2,70.5,-1,1,159736,6973
+iM,Natus Vincere,Inferno,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Heroic,False,0.86,12,8,20,0.33,69.2%,-8,71.2,+2,1,159736,6973
+s1mple,Natus Vincere,Inferno,2023-07-16 15:00,BLAST Premier Fall Groups 2023,Heroic,False,0.70,16,3,20,0.5,50.0%,-4,57.3,-5,1,159736,6973
+HexT,Evil Geniuses,Inferno,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,1.06,33,7,32,0.61,71.4%,+1,82.3,0,6,159678,6973
+autimatic,Evil Geniuses,Inferno,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,1.04,32,10,31,0.44,64.3%,+1,86.8,-7,3,159678,6973
+Jeorge,Evil Geniuses,Inferno,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,0.98,24,11,24,0.38,69.0%,0,66.6,0,5,159678,6973
+junior,Evil Geniuses,Inferno,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,0.97,25,9,27,0.28,66.7%,-2,63.2,+1,4,159678,6973
+Walco,Evil Geniuses,Inferno,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,0.67,13,11,31,0.62,57.1%,-18,51.1,0,2,159678,6973
+headtr1ck,Ninjas in Pyjamas,Inferno,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Evil Geniuses,True,1.64,43,5,21,0.26,81.0%,+22,99.7,+7,3,159678,6973
+Brollan,Ninjas in Pyjamas,Inferno,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Evil Geniuses,True,1.24,36,9,28,0.44,73.8%,+8,89.6,+2,1,159678,6973
+REZ,Ninjas in Pyjamas,Inferno,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Evil Geniuses,True,1.03,26,14,23,0.54,73.8%,+3,70.8,+1,9,159678,6973
+hampus,Ninjas in Pyjamas,Inferno,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Evil Geniuses,True,0.97,23,12,28,0.3,73.8%,-5,74.2,-4,3,159678,6973
+k0nfig,Ninjas in Pyjamas,Inferno,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Evil Geniuses,True,0.79,17,3,30,0.41,73.8%,-13,49.8,0,0,159678,6973
+autimatic,Evil Geniuses,Vertigo,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,1.29,24,3,19,0.46,66.7%,+5,90.5,+2,1,159690,6973
+Walco,Evil Geniuses,Vertigo,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,1.10,20,6,15,0.55,70.4%,+5,71.0,-1,2,159690,6973
+HexT,Evil Geniuses,Vertigo,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,1.09,16,6,18,0.56,74.1%,-2,86.3,-1,2,159690,6973
+Jeorge,Evil Geniuses,Vertigo,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,0.94,16,9,22,0.62,77.8%,-6,78.8,-3,2,159690,6973
+junior,Evil Geniuses,Vertigo,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,0.88,17,3,18,0.29,59.3%,-1,56.6,+2,2,159690,6973
+headtr1ck,Ninjas in Pyjamas,Vertigo,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Evil Geniuses,True,1.19,18,4,14,0.22,74.1%,+4,68.2,+2,3,159690,6973
+REZ,Ninjas in Pyjamas,Vertigo,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Evil Geniuses,True,1.10,17,2,20,0.65,74.1%,-3,76.2,+4,0,159690,6973
+hampus,Ninjas in Pyjamas,Vertigo,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Evil Geniuses,True,1.02,21,2,18,0.19,66.7%,+3,71.1,-1,0,159690,6973
+k0nfig,Ninjas in Pyjamas,Vertigo,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Evil Geniuses,True,1.00,19,4,20,0.58,70.4%,-1,83.7,-1,0,159690,6973
+Brollan,Ninjas in Pyjamas,Vertigo,2023-07-15 18:25,BLAST Premier Fall Groups 2023,Evil Geniuses,True,0.99,17,5,21,0.65,66.7%,-4,80.3,-3,0,159690,6973
+Spinx,Vitality,Inferno,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Complexity,True,2.00,23,5,5,0.26,94.1%,+18,105.1,+3,3,159663,6973
+ZywOo,Vitality,Inferno,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Complexity,True,1.65,16,6,6,0.56,88.2%,+10,88.0,+4,3,159663,6973
+apEX,Vitality,Inferno,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Complexity,True,1.59,14,11,6,0.5,88.2%,+8,108.5,0,2,159663,6973
+flameZ,Vitality,Inferno,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Complexity,True,1.39,14,5,8,0.29,88.2%,+6,82.1,+1,0,159663,6973
+Magisk,Vitality,Inferno,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Complexity,True,1.34,12,8,9,0.58,88.2%,+3,93.6,+1,2,159663,6973
+hallzerk,Complexity,Inferno,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Vitality,False,0.74,12,0,16,0.5,47.1%,-4,74.7,-1,0,159663,6973
+Grim,Complexity,Inferno,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Vitality,False,0.56,7,1,15,0.43,35.3%,-8,48.6,-1,1,159663,6973
+floppy,Complexity,Inferno,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Vitality,False,0.37,5,6,16,0.8,47.1%,-11,42.9,-2,3,159663,6973
+EliGE,Complexity,Inferno,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Vitality,False,0.34,5,2,16,0.8,35.3%,-11,38.8,-2,2,159663,6973
+JT,Complexity,Inferno,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Vitality,False,0.31,5,3,16,0.4,41.2%,-11,37.2,-3,2,159663,6973
+ZywOo,Vitality,Vertigo,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Complexity,False,1.57,20,4,8,0.4,86.4%,+12,86.5,+1,2,159668,6973
+Magisk,Vitality,Vertigo,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Complexity,False,1.43,17,5,11,0.53,86.4%,+6,86.0,-1,1,159668,6973
+apEX,Vitality,Vertigo,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Complexity,False,1.31,14,8,12,0.5,77.3%,+2,77.2,+4,2,159668,6973
+Spinx,Vitality,Vertigo,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Complexity,False,1.17,14,1,12,0.5,81.8%,+2,64.9,0,0,159668,6973
+flameZ,Vitality,Vertigo,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Complexity,False,1.05,15,1,13,0.53,68.2%,+2,73.3,0,0,159668,6973
+floppy,Complexity,Vertigo,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Vitality,True,0.96,16,2,16,0.44,63.6%,0,78.8,-1,1,159668,6973
+EliGE,Complexity,Vertigo,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Vitality,True,0.87,14,0,17,0.5,77.3%,-3,72.7,-2,0,159668,6973
+Grim,Complexity,Vertigo,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Vitality,True,0.73,8,3,17,0.62,68.2%,-9,63.5,0,0,159668,6973
+JT,Complexity,Vertigo,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Vitality,True,0.72,10,4,16,0.5,68.2%,-6,58.1,-2,1,159668,6973
+hallzerk,Complexity,Vertigo,2023-07-15 16:15,BLAST Premier Fall Groups 2023,Vitality,True,0.65,8,2,15,0.12,63.6%,-7,29.2,0,2,159668,6973
+m0NESY,G2,Ancient,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,True,1.08,20,5,19,0.55,64.0%,+1,78.8,+2,5,159650,6973
+NiKo,G2,Ancient,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,True,1.05,18,2,17,0.5,68.0%,+1,76.6,+1,0,159650,6973
+jks,G2,Ancient,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,True,1.02,16,4,16,0.5,72.0%,0,72.9,+2,1,159650,6973
+huNter-,G2,Ancient,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,True,0.60,6,4,17,0.5,64.0%,-11,42.4,-2,1,159650,6973
+HooXi,G2,Ancient,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,True,0.54,9,3,19,0.44,48.0%,-10,40.6,0,1,159650,6973
+Patsi,Liquid,Ancient,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,False,1.44,20,5,16,0.45,84.0%,+4,91.3,+2,0,159650,6973
+oSee,Liquid,Ancient,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,False,1.22,17,2,11,0.35,84.0%,+6,68.4,+1,1,159650,6973
+NAF,Liquid,Ancient,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,False,1.17,17,4,12,0.41,88.0%,+5,53.9,-1,3,159650,6973
+Rainwaker,Liquid,Ancient,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,False,1.13,15,7,15,0.33,76.0%,0,75.0,-2,0,159650,6973
+YEKINDAR,Liquid,Ancient,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,False,1.12,19,4,16,0.47,68.0%,+3,83.6,-3,1,159650,6973
+NiKo,G2,Mirage,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,True,1.57,37,3,26,0.59,77.8%,+11,110.6,+6,0,159653,6973
+jks,G2,Mirage,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,True,1.09,27,6,24,0.37,69.4%,+3,85.4,-3,2,159653,6973
+m0NESY,G2,Mirage,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,True,1.03,27,4,25,0.3,69.4%,+2,70.1,-1,1,159653,6973
+huNter-,G2,Mirage,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,True,0.88,23,5,26,0.43,61.1%,-3,68.2,0,1,159653,6973
+HooXi,G2,Mirage,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,True,0.54,9,4,23,0.44,63.9%,-14,32.9,-6,2,159653,6973
+oSee,Liquid,Mirage,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,False,1.10,27,8,23,0.22,69.4%,+4,77.2,0,5,159653,6973
+YEKINDAR,Liquid,Mirage,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,False,1.10,27,5,24,0.41,69.4%,+3,76.9,-1,0,159653,6973
+NAF,Liquid,Mirage,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,False,1.09,26,6,23,0.35,75.0%,+3,71.4,+1,2,159653,6973
+Rainwaker,Liquid,Mirage,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,False,1.05,21,11,27,0.52,69.4%,-6,81.9,+4,1,159653,6973
+Patsi,Liquid,Mirage,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,False,0.98,23,6,26,0.35,63.9%,-3,72.0,0,1,159653,6973
+NiKo,G2,Vertigo,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,False,1.11,22,3,22,0.41,63.3%,0,85.9,+2,0,159656,6973
+huNter-,G2,Vertigo,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,False,1.04,19,9,22,0.37,70.0%,-3,75.3,+4,1,159656,6973
+jks,G2,Vertigo,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,False,0.94,18,4,18,0.39,70.0%,0,71.5,-4,1,159656,6973
+HooXi,G2,Vertigo,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,False,0.87,20,7,21,0.4,66.7%,-1,66.2,-4,4,159656,6973
+m0NESY,G2,Vertigo,2023-07-15 12:00,BLAST Premier Fall Groups 2023,Liquid,False,0.84,18,7,21,0.33,63.3%,-3,67.7,0,3,159656,6973
+NAF,Liquid,Vertigo,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,True,1.36,27,5,19,0.59,76.7%,+8,97.4,+1,1,159656,6973
+YEKINDAR,Liquid,Vertigo,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,True,1.20,21,6,17,0.57,66.7%,+4,78.9,+1,2,159656,6973
+Patsi,Liquid,Vertigo,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,True,1.03,22,3,22,0.41,60.0%,0,84.2,-2,0,159656,6973
+Rainwaker,Liquid,Vertigo,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,True,0.97,19,5,21,0.26,73.3%,-2,67.6,0,0,159656,6973
+oSee,Liquid,Vertigo,2023-07-15 12:00,BLAST Premier Fall Groups 2023,G2,True,0.92,15,9,18,0.07,66.7%,-3,54.5,+2,6,159656,6973
+ropz,FaZe,Inferno,2023-07-14 18:40,BLAST Premier Fall Groups 2023,OG,True,1.29,26,3,17,0.81,76.7%,+9,89.4,-1,0,159626,6973
+broky,FaZe,Inferno,2023-07-14 18:40,BLAST Premier Fall Groups 2023,OG,True,1.10,16,4,17,0.38,76.7%,-1,68.0,+4,0,159626,6973
+rain,FaZe,Inferno,2023-07-14 18:40,BLAST Premier Fall Groups 2023,OG,True,1.06,20,7,19,0.8,73.3%,+1,74.2,-2,4,159626,6973
+Twistzz,FaZe,Inferno,2023-07-14 18:40,BLAST Premier Fall Groups 2023,OG,True,0.93,16,4,20,0.5,76.7%,-4,54.4,0,0,159626,6973
+karrigan,FaZe,Inferno,2023-07-14 18:40,BLAST Premier Fall Groups 2023,OG,True,0.85,13,6,20,0.54,73.3%,-7,48.1,+2,2,159626,6973
+regali,OG,Inferno,2023-07-14 18:40,BLAST Premier Fall Groups 2023,FaZe,False,1.33,27,1,14,0.33,76.7%,+13,77.6,-1,1,159626,6973
+FASHR,OG,Inferno,2023-07-14 18:40,BLAST Premier Fall Groups 2023,FaZe,False,1.15,17,5,19,0.53,76.7%,-2,70.6,-1,1,159626,6973
+F1KU,OG,Inferno,2023-07-14 18:40,BLAST Premier Fall Groups 2023,FaZe,False,0.97,19,5,21,0.63,73.3%,-2,70.0,-2,1,159626,6973
+nexa,OG,Inferno,2023-07-14 18:40,BLAST Premier Fall Groups 2023,FaZe,False,0.90,14,5,17,0.57,73.3%,-3,59.1,0,3,159626,6973
+k1to,OG,Inferno,2023-07-14 18:40,BLAST Premier Fall Groups 2023,FaZe,False,0.90,16,9,21,0.75,66.7%,-5,60.5,+1,3,159626,6973
+Twistzz,FaZe,Mirage,2023-07-14 18:40,BLAST Premier Fall Groups 2023,OG,False,1.32,21,1,14,0.43,76.0%,+7,81.3,+3,0,159634,6973
+broky,FaZe,Mirage,2023-07-14 18:40,BLAST Premier Fall Groups 2023,OG,False,1.31,18,5,13,0.33,72.0%,+5,82.4,+2,1,159634,6973
+rain,FaZe,Mirage,2023-07-14 18:40,BLAST Premier Fall Groups 2023,OG,False,1.18,19,0,19,0.68,68.0%,0,88.3,+3,0,159634,6973
+karrigan,FaZe,Mirage,2023-07-14 18:40,BLAST Premier Fall Groups 2023,OG,False,0.80,12,3,15,0.42,64.0%,-3,57.7,-5,2,159634,6973
+ropz,FaZe,Mirage,2023-07-14 18:40,BLAST Premier Fall Groups 2023,OG,False,0.79,12,0,17,0.5,76.0%,-5,44.6,-2,0,159634,6973
+F1KU,OG,Mirage,2023-07-14 18:40,BLAST Premier Fall Groups 2023,FaZe,True,1.10,19,2,16,0.63,60.0%,+3,80.4,+1,0,159634,6973
+FASHR,OG,Mirage,2023-07-14 18:40,BLAST Premier Fall Groups 2023,FaZe,True,1.04,14,8,19,0.43,68.0%,-5,79.5,+1,0,159634,6973
+nexa,OG,Mirage,2023-07-14 18:40,BLAST Premier Fall Groups 2023,FaZe,True,0.93,16,2,17,0.62,84.0%,-1,61.2,0,1,159634,6973
+k1to,OG,Mirage,2023-07-14 18:40,BLAST Premier Fall Groups 2023,FaZe,True,0.93,15,7,16,0.6,72.0%,-1,67.8,-2,2,159634,6973
+regali,OG,Mirage,2023-07-14 18:40,BLAST Premier Fall Groups 2023,FaZe,True,0.91,14,1,14,0.14,68.0%,0,60.1,-1,0,159634,6973
+Aleksib,Natus Vincere,Ancient,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,True,1.23,19,1,17,0.42,79.2%,+2,85.8,+2,0,159611,6973
+s1mple,Natus Vincere,Ancient,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,True,1.05,19,3,19,0.58,75.0%,0,78.3,+1,1,159611,6973
+jL,Natus Vincere,Ancient,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,True,0.81,12,1,20,0.5,62.5%,-8,63.8,+1,0,159611,6973
+b1t,Natus Vincere,Ancient,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,True,0.80,13,2,18,0.54,54.2%,-5,67.1,+1,0,159611,6973
+iM,Natus Vincere,Ancient,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,True,0.47,6,3,19,0.5,41.7%,-13,46.1,-2,1,159611,6973
+blameF,Astralis,Ancient,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,False,1.80,25,4,11,0.4,91.7%,+14,106.3,+5,0,159611,6973
+Staehr,Astralis,Ancient,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,False,1.41,25,5,15,0.64,83.3%,+10,91.1,-3,3,159611,6973
+device,Astralis,Ancient,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,False,1.39,23,5,14,0.04,66.7%,+9,96.0,-1,2,159611,6973
+Buzz,Astralis,Ancient,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,False,1.14,13,6,14,0.38,83.3%,-1,71.5,0,2,159611,6973
+b0RUP,Astralis,Ancient,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,False,0.65,7,2,15,0.71,70.8%,-8,33.5,-4,1,159611,6973
+s1mple,Natus Vincere,Nuke,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,False,1.63,23,5,13,0.48,77.3%,+10,109.9,+4,3,159615,6973
+jL,Natus Vincere,Nuke,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,False,1.43,20,3,14,0.4,72.7%,+6,93.5,+1,0,159615,6973
+iM,Natus Vincere,Nuke,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,False,1.23,13,6,13,0.69,81.8%,0,73.5,-1,2,159615,6973
+b1t,Natus Vincere,Nuke,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,False,1.14,15,1,12,0.87,77.3%,+3,70.7,0,0,159615,6973
+Aleksib,Natus Vincere,Nuke,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,False,1.07,15,3,12,0.8,77.3%,+3,69.0,-2,2,159615,6973
+device,Astralis,Nuke,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,True,1.10,17,1,15,0.24,63.6%,+2,81.4,+1,0,159615,6973
+blameF,Astralis,Nuke,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,True,1.06,15,3,15,0.33,63.6%,0,87.7,+1,1,159615,6973
+b0RUP,Astralis,Nuke,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,True,0.88,13,1,19,0.85,68.2%,-6,72.1,-2,0,159615,6973
+Staehr,Astralis,Nuke,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,True,0.70,11,2,18,0.36,59.1%,-7,60.9,0,1,159615,6973
+Buzz,Astralis,Nuke,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,True,0.51,8,1,19,0.25,63.6%,-11,44.5,-2,0,159615,6973
+iM,Natus Vincere,Overpass,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,True,1.30,25,5,20,0.52,75.0%,+5,91.9,-2,1,159620,6973
+s1mple,Natus Vincere,Overpass,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,True,1.22,19,5,14,0.47,82.1%,+5,72.6,+1,3,159620,6973
+jL,Natus Vincere,Overpass,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,True,1.09,18,5,17,0.61,67.9%,+1,73.2,+2,2,159620,6973
+Aleksib,Natus Vincere,Overpass,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,True,1.03,14,8,14,0.64,78.6%,0,61.5,-1,5,159620,6973
+b1t,Natus Vincere,Overpass,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Astralis,True,0.81,13,3,18,0.62,60.7%,-5,54.3,0,0,159620,6973
+blameF,Astralis,Overpass,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,False,1.19,20,5,17,0.5,78.6%,+3,82.6,+1,2,159620,6973
+device,Astralis,Overpass,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,False,1.04,18,3,17,0.44,60.7%,+1,72.6,+1,2,159620,6973
+Staehr,Astralis,Overpass,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,False,0.93,15,3,18,0.53,71.4%,-3,59.6,0,1,159620,6973
+b0RUP,Astralis,Overpass,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,False,0.91,16,0,19,0.56,71.4%,-3,54.2,0,0,159620,6973
+Buzz,Astralis,Overpass,2023-07-14 14:45,BLAST Premier Fall Groups 2023,Natus Vincere,False,0.87,14,4,18,0.57,67.9%,-4,62.0,-2,1,159620,6973
+TeSeS,Heroic,Overpass,2023-07-14 11:00,BLAST Premier Fall Groups 2023,BIG,False,1.49,23,3,15,0.43,87.0%,+8,106.6,+3,0,159602,6973
+stavn,Heroic,Overpass,2023-07-14 11:00,BLAST Premier Fall Groups 2023,BIG,False,1.32,21,3,15,0.43,78.3%,+6,100.5,+1,0,159602,6973
+cadiaN,Heroic,Overpass,2023-07-14 11:00,BLAST Premier Fall Groups 2023,BIG,False,1.19,15,3,9,0.2,73.9%,+6,66.7,+2,2,159602,6973
+sjuush,Heroic,Overpass,2023-07-14 11:00,BLAST Premier Fall Groups 2023,BIG,False,1.10,14,3,13,0.36,82.6%,+1,64.1,0,0,159602,6973
+jabbi,Heroic,Overpass,2023-07-14 11:00,BLAST Premier Fall Groups 2023,BIG,False,1.01,13,1,13,0.54,65.2%,0,58.4,+1,0,159602,6973
+Krimbo,BIG,Overpass,2023-07-14 11:00,BLAST Premier Fall Groups 2023,Heroic,True,1.12,14,5,15,0.64,78.3%,-1,85.3,0,1,159602,6973
+mantuu,BIG,Overpass,2023-07-14 11:00,BLAST Premier Fall Groups 2023,Heroic,True,1.07,18,3,15,0.56,73.9%,+3,66.3,-1,2,159602,6973
+tabseN,BIG,Overpass,2023-07-14 11:00,BLAST Premier Fall Groups 2023,Heroic,True,0.88,15,3,18,0.6,47.8%,-3,71.6,-3,1,159602,6973
+s1n,BIG,Overpass,2023-07-14 11:00,BLAST Premier Fall Groups 2023,Heroic,True,0.76,10,6,19,0.5,65.2%,-9,54.9,0,4,159602,6973
+prosus,BIG,Overpass,2023-07-14 11:00,BLAST Premier Fall Groups 2023,Heroic,True,0.42,8,0,19,0.38,34.8%,-11,37.0,-3,0,159602,6973
+stavn,Heroic,Inferno,2023-07-14 12:00,BLAST Premier Fall Groups 2023,BIG,False,1.42,22,3,16,0.36,79.2%,+6,95.6,+2,0,159605,6973
+sjuush,Heroic,Inferno,2023-07-14 12:00,BLAST Premier Fall Groups 2023,BIG,False,1.38,18,8,12,0.5,87.5%,+6,75.6,-3,2,159605,6973
+TeSeS,Heroic,Inferno,2023-07-14 12:00,BLAST Premier Fall Groups 2023,BIG,False,1.13,17,6,17,0.65,75.0%,0,78.8,-2,0,159605,6973
+cadiaN,Heroic,Inferno,2023-07-14 12:00,BLAST Premier Fall Groups 2023,BIG,False,1.04,13,4,11,0.31,79.2%,+2,54.0,+2,2,159605,6973
+jabbi,Heroic,Inferno,2023-07-14 12:00,BLAST Premier Fall Groups 2023,BIG,False,0.97,9,6,9,0.44,83.3%,0,51.3,-1,1,159605,6973
+Krimbo,BIG,Inferno,2023-07-14 12:00,BLAST Premier Fall Groups 2023,Heroic,True,1.12,17,6,17,0.35,75.0%,0,88.7,+1,2,159605,6973
+s1n,BIG,Inferno,2023-07-14 12:00,BLAST Premier Fall Groups 2023,Heroic,True,0.98,16,4,16,0.5,79.2%,0,76.2,+1,2,159605,6973
+mantuu,BIG,Inferno,2023-07-14 12:00,BLAST Premier Fall Groups 2023,Heroic,True,0.89,13,8,17,0.38,70.8%,-4,61.2,+4,4,159605,6973
+tabseN,BIG,Inferno,2023-07-14 12:00,BLAST Premier Fall Groups 2023,Heroic,True,0.76,9,2,15,0.67,66.7%,-6,53.0,-1,0,159605,6973
+prosus,BIG,Inferno,2023-07-14 12:00,BLAST Premier Fall Groups 2023,Heroic,True,0.75,10,3,15,0.6,62.5%,-5,53.8,-3,2,159605,6973
+k0nfig,Ninjas in Pyjamas,Inferno,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,True,1.33,25,7,17,0.4,86.7%,+8,75.3,-2,3,159576,6973
+Brollan,Ninjas in Pyjamas,Inferno,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,True,1.07,21,8,19,0.48,70.0%,+2,77.0,-3,1,159576,6973
+REZ,Ninjas in Pyjamas,Inferno,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,True,1.05,16,7,18,0.62,76.7%,-2,70.1,+2,1,159576,6973
+hampus,Ninjas in Pyjamas,Inferno,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,True,0.98,15,7,18,0.2,70.0%,-3,66.9,-3,0,159576,6973
+headtr1ck,Ninjas in Pyjamas,Inferno,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,True,0.92,16,8,15,0.44,73.3%,+1,54.3,0,5,159576,6973
+EliGE,Complexity,Inferno,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,1.15,18,6,20,0.44,90.0%,-2,71.5,+5,1,159576,6973
+Grim,Complexity,Inferno,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,1.14,19,3,18,0.37,70.0%,+1,72.1,+6,0,159576,6973
+JT,Complexity,Inferno,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,1.09,21,5,20,0.71,76.7%,+1,74.1,0,2,159576,6973
+floppy,Complexity,Inferno,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,1.00,18,3,17,0.83,66.7%,+1,66.6,-3,3,159576,6973
+hallzerk,Complexity,Inferno,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,False,0.72,11,7,20,0.36,66.7%,-9,39.6,-2,3,159576,6973
+k0nfig,Ninjas in Pyjamas,Nuke,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,False,1.46,27,9,22,0.7,82.1%,+5,114.4,-1,2,159579,6973
+REZ,Ninjas in Pyjamas,Nuke,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,False,1.05,18,4,17,0.61,67.9%,+1,71.0,-1,0,159579,6973
+headtr1ck,Ninjas in Pyjamas,Nuke,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,False,0.85,15,0,16,0.4,78.6%,-1,43.3,0,0,159579,6973
+Brollan,Ninjas in Pyjamas,Nuke,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,False,0.81,10,2,18,0.6,64.3%,-8,51.5,+1,0,159579,6973
+hampus,Ninjas in Pyjamas,Nuke,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,False,0.68,13,4,23,0.23,60.7%,-10,51.9,-5,2,159579,6973
+EliGE,Complexity,Nuke,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,True,1.42,25,3,17,0.6,82.1%,+8,97.6,+3,0,159579,6973
+floppy,Complexity,Nuke,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,True,1.25,20,7,16,0.55,75.0%,+4,81.5,+1,3,159579,6973
+Grim,Complexity,Nuke,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,True,1.22,21,5,18,0.43,82.1%,+3,84.3,0,1,159579,6973
+hallzerk,Complexity,Nuke,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,True,1.11,18,6,14,0.39,75.0%,+4,68.5,+1,3,159579,6973
+JT,Complexity,Nuke,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,True,0.77,12,4,18,0.5,60.7%,-6,48.4,+1,2,159579,6973
+headtr1ck,Ninjas in Pyjamas,Overpass,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,False,1.10,21,5,15,0.43,69.0%,+6,62.1,-1,5,159581,6973
+k0nfig,Ninjas in Pyjamas,Overpass,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,False,1.05,20,8,22,0.6,75.9%,-2,77.1,0,3,159581,6973
+hampus,Ninjas in Pyjamas,Overpass,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,False,0.97,17,9,19,0.41,72.4%,-2,75.3,-1,2,159581,6973
+Brollan,Ninjas in Pyjamas,Overpass,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,False,0.90,15,6,20,0.53,65.5%,-5,59.6,0,2,159581,6973
+REZ,Ninjas in Pyjamas,Overpass,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Complexity,False,0.86,17,2,21,0.47,65.5%,-4,59.4,-1,1,159581,6973
+EliGE,Complexity,Overpass,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,True,1.50,28,6,18,0.43,69.0%,+10,101.4,+3,2,159581,6973
+Grim,Complexity,Overpass,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,True,1.16,20,6,18,0.55,79.3%,+2,76.6,-3,1,159581,6973
+floppy,Complexity,Overpass,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,True,1.03,15,2,15,0.67,75.9%,0,63.0,-1,1,159581,6973
+hallzerk,Complexity,Overpass,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,True,0.98,16,9,18,0.5,69.0%,-2,63.1,+3,7,159581,6973
+JT,Complexity,Overpass,2023-07-13 17:20,BLAST Premier Fall Groups 2023,Ninjas in Pyjamas,True,0.87,17,10,21,0.59,69.0%,-4,56.6,+1,7,159581,6973
+Magisk,Vitality,Overpass,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Evil Geniuses,False,1.76,24,6,12,0.38,81.8%,+12,119.5,+3,3,159569,6973
+flameZ,Vitality,Overpass,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Evil Geniuses,False,1.25,16,2,11,0.56,81.8%,+5,69.8,+2,1,159569,6973
+ZywOo,Vitality,Overpass,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Evil Geniuses,False,1.11,15,2,11,0.4,72.7%,+4,72.1,-2,1,159569,6973
+apEX,Vitality,Overpass,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Evil Geniuses,False,1.04,15,7,11,0.33,72.7%,+4,63.0,-1,5,159569,6973
+Spinx,Vitality,Overpass,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Evil Geniuses,False,0.90,10,5,13,0.4,72.7%,-3,66.5,0,0,159569,6973
+junior,Evil Geniuses,Overpass,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Vitality,True,1.26,19,5,14,0.16,59.1%,+5,90.5,0,3,159569,6973
+Walco,Evil Geniuses,Overpass,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Vitality,True,0.96,14,1,16,0.5,59.1%,-2,62.6,+1,0,159569,6973
+Jeorge,Evil Geniuses,Overpass,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Vitality,True,0.94,9,1,16,0.67,68.2%,-7,59.9,+4,0,159569,6973
+autimatic,Evil Geniuses,Overpass,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Vitality,True,0.64,11,1,18,0.55,63.6%,-7,57.4,-2,0,159569,6973
+HexT,Evil Geniuses,Overpass,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Vitality,True,0.49,5,6,17,0.8,45.5%,-12,42.4,-5,3,159569,6973
+flameZ,Vitality,Vertigo,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Evil Geniuses,False,1.87,20,1,10,0.5,94.7%,+10,111.2,+3,0,159572,6973
+ZywOo,Vitality,Vertigo,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Evil Geniuses,False,1.64,14,5,4,0.21,94.7%,+10,75.7,+3,3,159572,6973
+Spinx,Vitality,Vertigo,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Evil Geniuses,False,1.42,14,5,8,0.5,94.7%,+6,64.4,+1,4,159572,6973
+apEX,Vitality,Vertigo,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Evil Geniuses,False,1.31,12,6,8,0.08,84.2%,+4,77.8,-1,2,159572,6973
+Magisk,Vitality,Vertigo,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Evil Geniuses,False,1.26,12,2,7,0.58,84.2%,+5,71.8,0,0,159572,6973
+junior,Evil Geniuses,Vertigo,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Vitality,True,0.89,11,2,13,0.36,73.7%,-2,65.7,+1,0,159572,6973
+Walco,Evil Geniuses,Vertigo,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Vitality,True,0.54,7,5,15,0.86,52.6%,-8,53.5,0,2,159572,6973
+Jeorge,Evil Geniuses,Vertigo,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Vitality,True,0.49,8,1,16,0.62,63.2%,-8,47.3,-4,0,159572,6973
+autimatic,Evil Geniuses,Vertigo,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Vitality,True,0.47,6,0,13,0.33,47.4%,-7,41.1,-2,0,159572,6973
+HexT,Evil Geniuses,Vertigo,2023-07-13 15:00,BLAST Premier Fall Groups 2023,Vitality,True,0.47,5,2,16,0.2,47.4%,-11,41.2,-1,0,159572,6973
